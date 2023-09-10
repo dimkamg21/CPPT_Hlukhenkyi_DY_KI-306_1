@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"main.java.com.dima","l":"lab1_Hlukhenkyi"}];updateSearchResults();
