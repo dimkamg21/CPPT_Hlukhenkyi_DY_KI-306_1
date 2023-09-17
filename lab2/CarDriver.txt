@@ -1,0 +1,13 @@
+Brand: Toyota
+Manufacturing Year: 2022
+Brand: Toyota Car started.
+Brand: Toyota Car accelerated to 20 km/h.
+Brand: Toyota Car decelerated to 10 km/h.
+Brand: Toyota Car lights turned on.
+Brand: Toyota
+Manufacturing Year: 2022
+Brand: Toyota Car stopped.
+Brand: BMW
+Manufacturing Year: 2023
+Engine not available.
+Cannot accelerate the car without an engine.
