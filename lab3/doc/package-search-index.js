@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"main.java.ki306.hlukhenkyi.lab3"},{"l":"main.java.ki306.hlukhenkyi.lab3.models"}];updateSearchResults();
