@@ -12,7 +12,7 @@ public class ExpressionCalculator {
     private double x;
 
     /**
-     * Конструктор для створення об'єкта ExpressionCalculator зі значенням x.
+     * Конструктор створення об'єкта ExpressionCalculator зі значенням x.
      *
      * @param x Значення x, для якого буде обчислюватися вираз.
      */
